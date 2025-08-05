@@ -4,7 +4,7 @@ The extension is a modification of the [Accent Color Icon Theme Changer For GNOM
 This extension will be included in next release **BRGV-OS** Linux distribution.  
 |Light/Dark cursor theme| Dark Cursor Theme | Light Cursor Theme |
 |:---------------------:|:-----------------:|:------------------:|
-|![Light/Dark cursor theme](../screenshots/light-dark-cursor-theme.png)|![Dark Cursor Theme](../screenshots/dark_color_scheme_cursor_theme.png)|![Light Cursor Theme](../screenshots/light_color_scheme_cursor_theme.png)|  
+|![Light/Dark cursor theme](./screenshots/light-dark-cursor-theme.png)|![Dark Cursor Theme](./screenshots/dark_color_scheme_cursor_theme.png)|![Light Cursor Theme](./screenshots/light_color_scheme_cursor_theme.png)|  
     
 ## What is necessary ...  
 BRGV-OS have all [Fluent icon theme](https://github.com/vinceliuice/Fluent-icon-theme) installed in `/usr/share/icons`, thank you `Vince` for your work.  
